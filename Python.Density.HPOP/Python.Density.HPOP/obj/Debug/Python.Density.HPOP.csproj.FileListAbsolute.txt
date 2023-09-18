@@ -1,0 +1,14 @@
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\bin\Debug\Python.Density.HPOP.dll
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\bin\Debug\Python.Density.HPOP.pdb
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.csproj.AssemblyReference.cache
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.csproj.CoreCompileInputs.cache
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.dll
+C:\Users\jthompson\source\repos\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.pdb
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.csproj.AssemblyReference.cache
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.csproj.CoreCompileInputs.cache
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.dll
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.pdb
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Interop.AGI.STKX.Initialization.dll
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\obj\Debug\Python.Density.HPOP.csproj.ResolveComReference.cache
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\bin\Debug\Python.Density.HPOP.dll
+C:\Users\sasrivas\OneDrive - ANSYS, Inc\Work\12_R&D\ACE SME Mentoring Program\SpaceWeather x Astro\code\plugin_v1\Python.Density.HPOP\Python.Density.HPOP\bin\Debug\Python.Density.HPOP.pdb
